@@ -1,3 +1,10 @@
+
+[whatever]::
+[@dings]:whatever
+[whatever]: :
+[whatever]: whatever
+
+
 asdasdas
 
 sdsf :D
@@ -7,3 +14,4 @@ sdfsdfk ölsdfsdf
 > sdf dings und so
 
 dings und so haha
+
